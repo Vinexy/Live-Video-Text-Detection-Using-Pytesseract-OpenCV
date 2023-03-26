@@ -1,3 +1,6 @@
+![ezgif com-video-to-gif (9)](https://user-images.githubusercontent.com/85889196/227754190-390a42ba-ee25-4898-9bfb-3efa354d7eec.gif)
+
+
 # Live-Video-Text-Detection-Using-Pytesseract-OpenCV
  
 Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will 
